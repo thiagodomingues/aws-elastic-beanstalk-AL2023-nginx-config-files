@@ -1,16 +1,16 @@
 # Install NGINX on AL2023 single instance
 
-I remove dot from folder's name, please add it on your project source.
+I removed dot from folder's name, please add it on your project source.
 
-## Reference
-
-[AWS Documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/beanstalk-environment-configuration-advanced.html).
-
-## Example
+# Example
 
 .ebextensions 
 
 .platform/hooks
+
+## Reference
+
+[AWS Documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/beanstalk-environment-configuration-advanced.html).
 
 ## Contributing
 
